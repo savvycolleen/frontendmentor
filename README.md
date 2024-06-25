@@ -6,4 +6,4 @@ Learning in public can be scary, but it's also fun to show off what I can do (or
 
 ## Live Link
 
-Click [this link]() to see projects that I have built so far. Enjoy!
+QR Code: [Repo](https://github.com/savvycolleen/qr-code-frontend-mentor) | [Live link](https://savvycolleen.github.io/qr-code-frontend-mentor/)
